@@ -21,5 +21,3 @@
 ## Preview This Project
 
 <img src="images/Preview.png" alt="PreviewImg">
-
-## <center><a href="https://colorgenerator-codequillcrafts.netlify.app" target=_blank>View Live</a></center>
